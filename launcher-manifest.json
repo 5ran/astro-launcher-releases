@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T00:40:00Z",
+  "generatedAt": "2026-08-06T02:29:00Z",
   "launcher": {
     "latestVersion": "1.8.0",
     "downloadUrl": "https://github.com/5ran/astro-launcher-releases/releases/download/astro-launcher-v1.8.0/Astro-Launcher-1.8.0.exe",
@@ -36,11 +36,11 @@
       "category": "Fishing macro",
       "latestVersion": "1.0.5",
       "downloadUrl": "https://github.com/5ran/astro-launcher-releases/releases/download/fisch-v1.0.5/Fisch-1.0.5.exe",
-      "sha256": "E8707C197C08229D7FD632AF21424589E3AB327929F62197909E8EEBBBE04B1B",
+      "sha256": "5F9AA61A09403E936E5E90373D198878C6CACAB8F41FE77619B2E52801A02872",
       "fileName": "Fisch.exe",
-      "imageUrl": "fisch.png",
+      "imageUrl": "https://ae-storefront.vercel.app/fisch.png",
       "accentColor": "#46D982",
-      "releaseNotes": "Adds Aurora Totem and Cosmic Relic radar tracking, live hunt announcement detection, admin event webhooks and Current Hunts fixes.",
+      "releaseNotes": "Hotfix protected build.",
       "featured": true,
       "sortOrder": 2,
       "legacyFileNames": [
