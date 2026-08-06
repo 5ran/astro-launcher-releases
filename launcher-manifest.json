@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T02:29:00Z",
+  "generatedAt": "2026-08-06T02:42:00Z",
   "launcher": {
     "latestVersion": "1.8.0",
     "downloadUrl": "https://github.com/5ran/astro-launcher-releases/releases/download/astro-launcher-v1.8.0/Astro-Launcher-1.8.0.exe",
@@ -34,13 +34,13 @@
       "shortName": "F",
       "description": "Fish, appraise, track hunts and use focused utility add-ons for Fisch.",
       "category": "Fishing macro",
-      "latestVersion": "1.0.5",
-      "downloadUrl": "https://github.com/5ran/astro-launcher-releases/releases/download/fisch-v1.0.5/Fisch-1.0.5.exe",
+      "latestVersion": "1.0.6",
+      "downloadUrl": "https://github.com/5ran/astro-launcher-releases/releases/download/fisch-v1.0.6/Fisch-1.0.6.exe",
       "sha256": "5F9AA61A09403E936E5E90373D198878C6CACAB8F41FE77619B2E52801A02872",
       "fileName": "Fisch.exe",
       "imageUrl": "https://ae-storefront.vercel.app/fisch.png",
       "accentColor": "#46D982",
-      "releaseNotes": "Hotfix protected build.",
+      "releaseNotes": "Build integrity fix.",
       "featured": true,
       "sortOrder": 2,
       "legacyFileNames": [
