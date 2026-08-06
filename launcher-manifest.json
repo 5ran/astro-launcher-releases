@@ -4,7 +4,7 @@
   "launcher": {
     "latestVersion": "1.8.0",
     "downloadUrl": "https://github.com/5ran/astro-launcher-releases/releases/download/astro-launcher-v1.8.0/Astro-Launcher-1.8.0.exe",
-    "sha256": "5A3D6B55455F20EE6BE774B490A2C12542F087A68EE9C604BB6E83675403B6AC",
+    "sha256": "10EDA0DB0E9B44D670DFCDA6EB73C352CEDCBA9DA4B74E3572700EA57F5F287B",
     "fileName": "Astro Launcher.exe",
     "releaseNotes": "Fixes automatic offset updates with official provider mirrors, cache-safe downloads and better Roblox build detection."
   },
