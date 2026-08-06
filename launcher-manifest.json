@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-06T00:40:00Z",
+  "launcher": {
+    "latestVersion": "1.8.0",
+    "downloadUrl": "https://github.com/5ran/astro-launcher-releases/releases/download/astro-launcher-v1.8.0/Astro-Launcher-1.8.0.exe",
+    "sha256": "5A3D6B55455F20EE6BE774B490A2C12542F087A68EE9C604BB6E83675403B6AC",
+    "fileName": "Astro Launcher.exe",
+    "releaseNotes": "Fixes automatic offset updates with official provider mirrors, cache-safe downloads and better Roblox build detection."
+  },
+  "macros": [
+    {
+      "id": "anime-expeditions",
+      "name": "Anime Expeditions",
+      "shortName": "AE",
+      "description": "Create, save and run unit placement macros for Anime Expeditions.",
+      "category": "Strategy macro",
+      "latestVersion": "1.0.4",
+      "downloadUrl": "https://github.com/5ran/astro-launcher-releases/releases/download/anime-expeditions-v1.0.4/AE-1.0.4.exe",
+      "sha256": "9F086D2D516D1AE24DC77948FC517AC858E65DFAA3EA1C88496D5C04D0B6B282",
+      "fileName": "AE.exe",
+      "imageUrl": "https://ae-storefront.vercel.app/anime-expeditions.png",
+      "accentColor": "#46D982",
+      "releaseNotes": "Locks offsets for the full macro run and applies shared-cache updates only after the runtime stops.",
+      "featured": true,
+      "sortOrder": 1,
+      "legacyFileNames": [
+        "AE.exe"
+      ]
+    },
+    {
+      "id": "fisch",
+      "name": "Fisch",
+      "shortName": "F",
+      "description": "Fish, appraise, track hunts and use focused utility add-ons for Fisch.",
+      "category": "Fishing macro",
+      "latestVersion": "1.0.5",
+      "downloadUrl": "https://github.com/5ran/astro-launcher-releases/releases/download/fisch-v1.0.5/Fisch-1.0.5.exe",
+      "sha256": "E8707C197C08229D7FD632AF21424589E3AB327929F62197909E8EEBBBE04B1B",
+      "fileName": "Fisch.exe",
+      "imageUrl": "fisch.png",
+      "accentColor": "#46D982",
+      "releaseNotes": "Adds Aurora Totem and Cosmic Relic radar tracking, live hunt announcement detection, admin event webhooks and Current Hunts fixes.",
+      "featured": true,
+      "sortOrder": 2,
+      "legacyFileNames": [
+        "Fisch.exe",
+        "Fisch-Lullaby.exe"
+      ]
+    }
+  ]
+}
